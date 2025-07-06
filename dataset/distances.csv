@@ -1,0 +1,32 @@
+Source,Destination,Path(m)
+MP Family Restaurant,IISERB Curb,260
+IISERB Curb,Rahul Auto Service,160
+IISERB Curb,Bharat Tea Stall,16
+IISERB Curb,Main Gate,63
+MP Family Restaurant,Bharat Tea Stall,260
+Bharat Tea Stall,Dairy,170
+Main Gate,Resident Area Jn,83
+Resident Area Jn,Aadharshila School,280
+Aadharshila School,Director Bunglow,300
+Resident Area Jn,VH Jn,400
+VH Jn,Director Bunglow,120
+Director Bunglow,Shopping Center,120
+Shopping Center,Library,140
+Shopping Center,Flag Post,220
+VH Jn,Flag Post,88
+Flag Post,Infinity,260
+Library,Infinity,220
+Library,CCD,110
+Infinity,Cell,160
+CCD,IWD Jn,89
+Cell,Rock Facility,180
+Rock Facility,H1 Jn,240
+IWD Jn,ICH,120
+IWD Jn,H1 Jn,180
+H1 Jn,H1,120
+H1,Ideation Hut,280
+Ideation Hut,H7,190
+H7,H7 Jn,73
+H1 Jn,H7 Jn,350
+
+
