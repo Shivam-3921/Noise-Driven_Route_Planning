@@ -7,7 +7,7 @@ This project explores intelligent route planning on the IISER Bhopal campus by i
 The system compares two pathfinding approaches:
 
 - **Genetic Algorithm (GA)**: A stochastic optimization technique inspired by natural evolution. It searches for optimal routes by evolving a population of candidate paths through selection, crossover, and mutation. The fitness of each route is computed using a weighted sum of noise and distance.
-- **`A\* Search Algorithm`**: A deterministic graph search algorithm that uses both actual cost and a heuristic to guide the search. In this case, the evaluation function includes both normalized noise levels and distances.
+- **A\* Search Algorithm**: A deterministic graph search algorithm that uses both actual cost and a heuristic to guide the search. In this case, the evaluation function includes both normalized noise levels and distances.
 
 ## Data Collection
 
